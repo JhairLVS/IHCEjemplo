@@ -1,0 +1,35 @@
+{
+    "citas": [
+      {
+        "doctor": "Dra.C.Gonzáles",
+        "estado": "Programada",
+        "fecha": "16/04"
+      },
+      {
+        "doctor": "Dr.L.Castro",
+        "estado": "Finalizada",
+        "fecha": "10/03"
+      },
+      {
+        "doctor": "Dr.P.Castillo",
+        "estado": "Finalizada",
+        "fecha": "20/02"
+      },
+      {
+        "doctor": "Dra.M.Del Aguila",
+        "estado": "Cancelada",
+        "fecha": "18/02"
+      },
+      {
+        "doctor": "Dr.C.GonzálesRosas",
+        "estado": "Programada",
+        "fecha": "12/09"
+      },
+      {
+        "doctor": "Dra.K.Rodriguez",
+        "estado": "Programada",
+        "fecha": "21/10"
+      }
+    ]
+  }
+  
